@@ -1,22 +1,36 @@
-body{
+body {
     background-color: blueviolet;
 }
-h1{
+
+h1 {
     color: blue;
 }
-p{
+
+p {
     color: aquamarine;
 }
-img{border-radius: 50%;}
-#special{color:#2c271e ;
-background-color: gold;
+
+img {
+    border-radius: 50%;
 }
-#special2{color:#DDA0DD ;
-background-color: darkolivegreen;
+
+#special {
+    color: #2c271e;
+    background-color: gold;
 }
-hr{
+
+#special2 {
+    color: #DDA0DD;
+    background-color: darkolivegreen;
+}
+
+hr {
     border: 2px solid red
 }
-#cat{
+
+#cat {
     border: 2px solid blue
 }
+ol{color: blanchedalmond;}
+li{color: #581858;}
+ul{color: blue;}
