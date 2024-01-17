@@ -14,3 +14,9 @@ background-color: gold;
 #special2{color:#DDA0DD ;
 background-color: darkolivegreen;
 }
+hr{
+    border: 2px solid red
+}
+#cat{
+    border: 2px solid blue
+}
